@@ -1,1 +1,1 @@
-Hi, I'm Seema 👋 — a passionate Software Developer who loves building projects with Java, Python, JavaScript, React, and DevOps.
+Hi, I'm Seema 👋 — a passionate Software Developer skilled in Java, Python, JavaScript, and React. I love building real-world projects and continuously upskilling myself to stay ahead in the tech industry. 
